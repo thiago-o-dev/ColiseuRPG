@@ -1,0 +1,14 @@
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\bin\Debug\net8.0\MedievalRPG.exe
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\bin\Debug\net8.0\MedievalRPG.deps.json
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\bin\Debug\net8.0\MedievalRPG.runtimeconfig.json
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\bin\Debug\net8.0\MedievalRPG.dll
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\bin\Debug\net8.0\MedievalRPG.pdb
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.AssemblyInfo.cs
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.dll
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\refint\MedievalRPG.dll
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.pdb
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\MedievalRPG.genruntimeconfig.cache
+C:\Users\Aula\Desktop\CSHARP\MedievalRPG\MedievalRPG\obj\Debug\net8.0\ref\MedievalRPG.dll
