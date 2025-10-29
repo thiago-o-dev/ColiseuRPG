@@ -6,9 +6,9 @@
                    ||
                   |  |
                   |  |    Bem-vindo, gladiador! Coliseu RPG é um jogo temático de combate e
-                  |  |    progresso ambientado nas areias de um grande anfiteatro. Assuma 
-                  |  |    o papel de um combatente forjado pelo povo e lute para ganhar 
-                  |  |    fama, honra e glória — ou cair sob os gritos da multidão.
+                  |  |    simulação ambientado nos filmes do Senhor Dos Aneis.
+                  |  |    Assista batalhas épicas nesse jogo em texto repleto de poderes 
+                  |  |    especiais e classes interessantes!
                   |  |
               .--.----.--.
             .-----\__/-----.
